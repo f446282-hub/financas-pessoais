@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+financas_pessoais.db
+
+# Logs
+*.log
+logs/
+
+# Node.js / Frontend
+node_modules/
+.next/
+out/
+build/
+dist/
+.cache/
+.parcel-cache/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Alembic
+# Manter migrations, ignorar apenas se necessário
+# alembic/versions/*.pyc
+
+# Build files
+*.exe
+*.msi
+*.whl
+dist/
+build/
+*.spec
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Scripts de build (opcional - você pode querer manter)
+# build_executable.py
+# launcher_completo*.py
+

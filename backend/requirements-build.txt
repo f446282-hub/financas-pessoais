@@ -1,0 +1,9 @@
+# Dependências para build de executável
+# Instale com: pip install -r requirements-build.txt
+
+# Build tools
+pyinstaller>=6.0.0
+
+# Todas as dependências do projeto
+-r requirements.txt
+

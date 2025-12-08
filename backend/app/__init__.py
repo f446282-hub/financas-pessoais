@@ -1,0 +1,3 @@
+"""
+Finanças Pessoais - Aplicação principal.
+"""
